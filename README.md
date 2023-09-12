@@ -1,4 +1,4 @@
-![logo](https://github.com/ynahka/ynahka/blob/main/background-github.png)
+![logo](https://github.com/ynahka/ynahka/blob/main/city-lights.png)
 <h1 align="center">Hi 👋, I'm Ynah</h1>
 <h3 align="center">Aspiring to become a Software Engineer</h3>
 
