@@ -1,5 +1,7 @@
 ![logo](https://github.com/ynahka/ynahka/blob/main/small-bg.png)
-<h1 align="center" style="font-size:10"> Hi, This is Ynah <img src="https://i.pinimg.com/originals/92/9c/a8/929ca8b51b2a0e3df8887bec41baa334.gif" alt="cat" width="50" height="50"></h1>
+
+<h1 align="center" style="font-size:10"> Hi, This is Ynah 
+  <img src="https://i.pinimg.com/originals/92/9c/a8/929ca8b51b2a0e3df8887bec41baa334.gif" alt="cat" width="50" height="50"></h1>
 
 <img align="right" alt="cutie-cat" width="300" src="https://i.pinimg.com/originals/0a/68/3f/0a683ffdb3ec3f266c2481ac4786a249.gif">
 
@@ -8,7 +10,7 @@
 - 💬 Ask me about **anything inside your head**
 - 📫 Send me an email at **gerryminah04aguilar@gmail.com**
 
-<h1 align="left">Connect with me:</h1>
+<h1 align="left">Connect with me: </h1>
 <p align="left">
 <a href="https://linkedin.com/in/gerryminah aguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerryminah aguilar" height="30" width="40" /></a>
 <a href="https://instagram.com/me_ynaaah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_ynaaah" height="30" width="40" /></a>
