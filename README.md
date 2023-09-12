@@ -1,5 +1,5 @@
-![logo](https://github.com/ynahka/ynahka/blob/main/city-lights.png)
-<h1 align="center">Hi 👋, I'm Ynah</h1>
+![logo](https://github.com/ynahka/ynahka/blob/main/small-bg.png)
+<h1 align="center">Hi 👋, I'm Ynah <img src="https://i.pinimg.com/originals/92/9c/a8/929ca8b51b2a0e3df8887bec41baa334.gif" alt="cat"></h1>
 <h3 align="center">Aspiring to become a Software Engineer</h3>
 
 <img align="right" alt="cutie-cat" width="300" src="https://i.pinimg.com/originals/0a/68/3f/0a683ffdb3ec3f266c2481ac4786a249.gif">
