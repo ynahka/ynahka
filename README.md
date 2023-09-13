@@ -1,22 +1,21 @@
 ![logo](https://github.com/ynahka/ynahka/blob/main/small-bg.png)
 
-<h2 align="center" font-size="10"> HI, THIS IS YNAH
-<img src="https://i.pinimg.com/originals/92/9c/a8/929ca8b51b2a0e3df8887bec41baa334.gif" alt="cat" width="50" height="50"></h2>
-<img align="right" alt="cutie-cat" width="250" src="https://i.pinimg.com/originals/0a/68/3f/0a683ffdb3ec3f266c2481ac4786a249.gif">
 
-- 🌱 I’m currently learning **Laravel, CoffeeScript and Java**
+<img align="right" alt="cutie-cat" width="300" height="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
+
+#### ✍️Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🌱 I’m currently learning **Laravel, CoffeeScript, and Java**
 - 🤝 I’m looking for someone who's **willing to teach me**
 - 💬 Ask me about **_anything inside your head_**
 - 📫 Send me an email at gerryminah04aguilar@gmail.com
-#### ✍️Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <h4 align="left">Connect with me: </h4>
 <p align="left">
 <a href="https://linkedin.com/in/gerryminah aguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerryminah aguilar" height="30" width="40" /></a>
 <a href="https://instagram.com/me_ynaaah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_ynaaah" height="30" width="40" /></a>
 </p>
 
-#### 💰You can help me by donating:
+#### You can help me by donating:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@GerryminahAguilar) 
   
 <h4 align="left">Languages and Tools:</h4>
