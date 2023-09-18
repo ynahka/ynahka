@@ -3,7 +3,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img align="right" alt="cutie-cat" width="200" height="170" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
 - 🌱 I’m currently learning **Laravel, CoffeeScript, and Java**
-- 🤝 I’m looking for someone who's **willing to teach me**
+- 🤝 Looking for a collaboration to our current project called *oma-angat*
+     > * OMA-ANGAT is a virtual agri-market for local famers.
 - 💬 Ask me about **_anything inside your head_**
 - 📫 Send me an email at gerryminah04aguilar@gmail.com
 <h4 align="left">Connect with me: </h4>
@@ -11,9 +12,6 @@
 <a href="https://linkedin.com/in/gerryminah aguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerryminah aguilar" height="30" width="40" /></a>
 <a href="https://instagram.com/me_ynaaah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_ynaaah" height="30" width="40" /></a>
 </p>
-
-#### You can help me by donating:
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@GerryminahAguilar) 
   
 <h4 align="left">Languages and Tools:</h4>
 
