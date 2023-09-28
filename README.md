@@ -3,10 +3,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img align="right" alt="cutie-cat" width="200" height="170" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
 - 🌱 I’m currently learning **Laravel, CoffeeScript, and Java**
-- 🤝 Looking for a collaboration to our current project called *oma-angat*
-     > * OMA-ANGAT is a virtual agri-market for local famers.
 - 💬 Ask me about **_anything inside your head_**
-- 📫 Send me an email at gerryminah04aguilar@gmail.com
+- 📫 Email me at gerryminah04aguilar@gmail.com
 <h4 align="left">Connect with me: </h4>
 <p align="left">
 <a href="https://linkedin.com/in/gerryminah aguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerryminah aguilar" height="30" width="40" /></a>
