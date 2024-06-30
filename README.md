@@ -2,6 +2,11 @@
 #### ✍️Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img align="right" alt="cutie-cat" width="200" height="170" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
+<p align ="right">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gerryminah-aguilar-0219b1257" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/gerryminah-aguilar-0219b1257?trk=profile-badge">Gerryminah Aguilar</a>
+  </div>
+</p>    
 - 🌱 I’m currently learning **Laravel, CoffeeScript, and Java**
 - 💬 Ask me about **_anything inside your head_**
 - 📫 Email me at gerryminah04aguilar@gmail.com
